@@ -1,0 +1,14 @@
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\bin\Debug\net8.0\Game_of_life_OOPs.exe
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\bin\Debug\net8.0\Game_of_life_OOPs.deps.json
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\bin\Debug\net8.0\Game_of_life_OOPs.runtimeconfig.json
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\bin\Debug\net8.0\Game_of_life_OOPs.dll
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\bin\Debug\net8.0\Game_of_life_OOPs.pdb
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\obj\Debug\net8.0\Game_of_life_OOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\obj\Debug\net8.0\Game_of_life_OOPs.AssemblyInfoInputs.cache
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\obj\Debug\net8.0\Game_of_life_OOPs.AssemblyInfo.cs
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\obj\Debug\net8.0\Game_of_life_OOPs.csproj.CoreCompileInputs.cache
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\obj\Debug\net8.0\Game_of_life_OOPs.dll
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\obj\Debug\net8.0\refint\Game_of_life_OOPs.dll
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\obj\Debug\net8.0\Game_of_life_OOPs.pdb
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\obj\Debug\net8.0\Game_of_life_OOPs.genruntimeconfig.cache
+C:\Users\AashishKumar Ambasta\Desktop\Game_of_life_OOPs\Game_of_life_OOPs\obj\Debug\net8.0\ref\Game_of_life_OOPs.dll
